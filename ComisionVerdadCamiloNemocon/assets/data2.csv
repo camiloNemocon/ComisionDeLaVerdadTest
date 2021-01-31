@@ -1,0 +1,32 @@
+root,node,count
+Amenaza 1,Amenaza al derecho a la vida 0,1
+Amenazas 2,Amenaza al derecho a la vida 0,2
+Amenazas 2,Amenaza 1,2
+Confinamiento 1,Confinamiento 0,1
+Confinamiento 2,Confinamiento 0,2
+Confinamiento 2,Confinamiento 1,2
+Desaparición forzada 1,Desaparición forzada 0,1
+Desaparición forzada 2,Desaparición forzada 0,2
+Desaparición forzada 2,Desaparición forzada 1,2
+Desplazamiento 1,Desplazamiento forzado 0,1
+Desplazamiento forzado 2,Desplazamiento forzado 0,2
+Desplazamiento forzado 2,Desplazamiento 1,2
+Abandono o Despojo Forzado de Tierras 1,Despojo / Abandono de tierras 0,1
+Abandono o despojo de tierras 2,Despojo / Abandono de tierras 0,2
+Abandono o despojo de tierras 2,Abandono o Despojo Forzado de Tierras 1,2
+Vinculación de Niños Niñas y Adolescentes 1,Reclutamiento de niños niñas y adolescentes 0,1
+Recluamiento y utilización de NNA 2,Reclutamiento de niños niñas y adolescentes 0,2
+Recluamiento y utilización de NNA 2,Vinculación de Niños Niñas y Adolescentes 1,2
+Secuestro 1,Secuestro / Toma de rehenes 0,1
+Secuestros 2,Secuestro / Toma de rehenes 0,2
+Secuestros 2,Secuestro 1,2
+Tortura 1,Tortura y otros tratos crueles inhumanos o degradantes 0,1
+Tortura 2,Tortura y otros tratos crueles inhumanos o degradantes 0,2
+Tortura 2,Tortura 1,2
+Delitos contra la libertad y la integridad sexual 1,Violencia sexual 0,1
+Violencia sexual 2,Violencia sexual 0,2
+Violencia sexual 2,Delitos contra la libertad y la integridad sexual 1,2
+Homicidio 1,Homicidio/Muerte 0,1
+Pillaje 2,Pillaje 0,2
+Extorsión 2,Extorsión 0,2
+MAP/MUSE 2,Minas antipersonal/Munición sin explotar/Artefacto explosivo 1,2
